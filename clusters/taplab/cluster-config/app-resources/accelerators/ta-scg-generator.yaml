@@ -1,7 +1,7 @@
 apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
 kind: Accelerator
 metadata:
-  name: TAP-Gateway-Generator
+  name: tap-gateway-generator
   namespace: accelerator-system
 spec:
   git:
